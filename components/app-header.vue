@@ -34,8 +34,8 @@ onUnmounted(() => {
       <!-- Right Header -->
       <div class="flex items-center gap-8">
         <div class="hidden md:(flex items-center gap-8)">
-          <a href="https://cloud.staging.pointhub.net">Sign In</a>
-          <a href="https://cloud.staging.pointhub.net">Sign Up</a>
+          <a href="https://cloud.staging.pointhub.net/auth/signin">Sign In</a>
+          <a href="https://cloud.staging.pointhub.net/auth/signup">Sign Up</a>
         </div>
         <ClientOnly>
           <a href="javascript:void(0)" class="md:hidden" @click="sidebarStore.toggleSidebar()">
