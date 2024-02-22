@@ -3,6 +3,8 @@
 <template>
   <div class="flex flex-col gap-16">
     <HomeSectionHero />
+    <HomeSectionProduct1 />
+    <HomeSectionProduct2 />
     <HomeSectionStandard />
     <HomeSectionUsable />
     <HomeSectionMaintainable />
