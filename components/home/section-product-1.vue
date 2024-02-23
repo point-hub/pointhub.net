@@ -9,7 +9,9 @@
           Pointhub ERP, aplikasi yang dibuat dengan feature yang lengkap seperti pembelian, penjualan hingga produksi
           dan mudah diakses supaya Anda dapat mengendalikan bisnis anda meskipun sedang berlibur
         </h1>
-        <button class="btn p-2 rounded-lg text-white bg-#16803B">Daftar Sekarang</button>
+        <a href="https://cloud.staging.pointhub.net/auth/signup" class="btn p-2 rounded-lg text-white bg-#16803B">
+          Daftar Sekarang
+        </a>
       </div>
       <img class="lg:h-60" src="@/assets/images/home/product-1.png" />
     </div>
