@@ -10,8 +10,8 @@
               <img class="h-8" src="https://assets.pointhub.net/assets/images/logo/white/logo.png" />
             </div>
             <p class="">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore magna aliqua.
+              Pointhub adalah Startup Milenial, tetapi bisnis modelnya konvensional. Pointhub membangun teknologi dengan
+              sistem Open Source.
             </p>
           </div>
           <div class="flex flex-wrap md:w-2/3 md:flex-nowrap gap-4">
@@ -31,8 +31,8 @@
             <div class="w-full flex flex-col md:w-1/3 gap-4 md:items-end">
               <p class="text-lg font-bold">We are in Social</p>
               <div class="flex gap-6">
-                <a href="javascript:void(0)" class="i-cib-linkedin"></a>
-                <a href="javascript:void(0)" class="i-cib-discord"></a>
+                <a href="https://www.linkedin.com/company/ptbig/" class="i-cib-linkedin"></a>
+                <a href="https://www.instagram.com/pointhubnet/" class="i-cib-instagram"></a>
               </div>
             </div>
           </div>
