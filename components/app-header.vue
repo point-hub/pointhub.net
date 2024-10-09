@@ -24,7 +24,7 @@ onUnmounted(() => {
 
 <template>
   <nav class="header" :class="{ 'bg-[#16803C]': top >= 60 }">
-    <div class="header-container mx-auto container">
+    <div class="header-container max-w-6xl mx-auto container px-16">
       <!-- Left Header -->
       <div class="flex items-center gap-4">
         <NuxtLink to="/">

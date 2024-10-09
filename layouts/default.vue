@@ -93,7 +93,7 @@ onMounted(() => {
 }
 
 .main-content {
-  @apply flex-1 pb-48;
+  @apply flex-1;
 }
 
 .main-content-header {

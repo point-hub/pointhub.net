@@ -16,9 +16,9 @@
           </div>
           <div class="flex flex-wrap md:w-2/3 md:flex-nowrap gap-4">
             <div class="w-full flex flex-col md:w-1/3 gap-4">
-              <!-- <NuxtLink to="/">Beranda</NuxtLink>
+              <NuxtLink to="/">Beranda</NuxtLink>
               <NuxtLink to="https://dev.pointhub.net">Developer</NuxtLink>
-              <NuxtLink to="/">Marketplace</NuxtLink>
+              <!-- <NuxtLink to="/">Marketplace</NuxtLink>
               <NuxtLink to="/">Investor</NuxtLink> -->
             </div>
             <div class="w-full flex flex-col md:w-1/3 gap-4">

@@ -1,5 +1,5 @@
 <template>
-  <section class="container mx-auto">
+  <section id="section-standard" class="container max-w-6xl mx-auto">
     <div class="flex-1 pt-4 space-y-2 md:pt-16 md:space-y-4">
       <h1 class="px-2 text-center text-3xl font-bold text-orange-400 md:text-5xl">
         6 Standar <span class="text-black">Pointhub</span>

@@ -1,19 +1,16 @@
-name: build-and-deploy
+name: build-and-deploy-staging
 
 on:
   push:
     branches:
-      - main
       - staging
-    tags:
-      - 'v*.*.*'
   pull_request:
     branches:    
-      - main
       - staging
       
 jobs:
   build:
+    environment: staging
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -58,6 +55,7 @@ jobs:
 
   deploy:
     needs: build
+    environment: staging
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:

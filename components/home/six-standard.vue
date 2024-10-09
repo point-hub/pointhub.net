@@ -5,22 +5,24 @@ const props = withDefaults(
     bubbleText: string
     title: string
     description: string
+    background?: boolean
   }>(),
   {
+    background: false,
     contentFirst: true
   }
 )
 
-const arrowPosition = ref('right')
+const arrowPosition = ref<'left' | 'right'>('right')
 if (props.contentFirst === true) {
   arrowPosition.value = 'left'
 }
 </script>
 
 <template>
-  <section class="container mx-auto px-16">
+  <section :class="{ 'bg-[#F0FDF4]': background }" class="py-16 lg:px-16">
     <div
-      class="flex gap-4 lg:gap-12 items-center justify-center flex-wrap-reverse"
+      class="flex gap-4 lg:gap-12 items-center justify-center flex-wrap-reverse px-16 lg:px-32 max-w-7xl container mx-auto"
       :class="{ 'flex-row-reverse ': !contentFirst }"
     >
       <div class="lg:flex-1 flex flex-col gap-4">
