@@ -29,7 +29,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  @apply relative min-h-50vh rounded-b-[50%] -mx-40 md:min-h-100vh;
+  @apply relative min-h-80vh rounded-b-[50%] -mx-40 md:min-h-100vh;
 }
 
 #spin:after {

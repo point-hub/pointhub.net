@@ -1,7 +1,7 @@
 <template>
   <div class="relative">
     <div class="marketplace-container flex flex-col">
-      <div class="container max-w-6xl mx-auto px-16">
+      <div class="container max-w-6xl mx-auto px-8 lg:px-16">
         <div class="rounded-8 from-green-700 to-green-500 bg-gradient-to-r px-6 py-8 text-center">
           <h1 class="text-center text-lg font-bold text-yellow-500 md:text-3xl">
             Tidak Menemukan Software
