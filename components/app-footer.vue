@@ -9,10 +9,6 @@
             <div>
               <img class="h-8" src="https://assets.pointhub.net/assets/images/logo/white/logo.png" />
             </div>
-            <p class="">
-              Pointhub adalah Startup Milenial, tetapi bisnis modelnya konvensional. Pointhub membangun teknologi dengan
-              sistem Open Source.
-            </p>
           </div>
           <div class="flex flex-wrap md:w-2/3 md:flex-nowrap gap-4">
             <div class="w-full flex flex-col md:w-1/3 gap-4">

@@ -91,7 +91,7 @@ import { BaseTabGroup, BaseTabList, BaseTab, BaseTabPanels, BaseTabPanel } from 
           <BaseTabPanel>
             <div class="lg:grid lg:cols-2">
               <div class="pb-10 lg:pb-0">
-                <img class="mx-auto max-h-50 px-8" src="@/assets/images/home/testimony-logo-bumi-ananta.jpg" />
+                <img class="mx-auto max-h-50 px-8" src="@/assets/images/home/testimony-logo-bumi-ananta.png" />
               </div>
               <div class="flex flex-col gap-2">
                 <p class="text-xl font-semibold">CV. Bumi Ananta</p>
