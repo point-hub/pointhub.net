@@ -11,7 +11,7 @@
     <HomeSectionScalable />
     <HomeSectionSecure :background="true" />
     <HomeSectionObservableReliable />
-    <HomeSectionTestimony />
+    <!-- <HomeSectionTestimony /> -->
     <!-- <HomeSectionDeveloperInvestor /> -->
     <HomeSectionFaq />
   </div>
